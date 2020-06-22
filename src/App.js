@@ -26,6 +26,8 @@ function App() {
         </Drawer>
         <Content>
         <NavBar/>
+        <img style={{display: "block", marginLeft:"auto",
+            marginRight:"auto",marginTop:"130px",width: "50%"}} src="https://myportfolio.school.nz/theme/myportfolio-school-nz/images/site-logo.svg?v=9754"></img>
         </Content>
        
     </Layout>
